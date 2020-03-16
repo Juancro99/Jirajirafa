@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+head .hi{
+    border-radius: 50%;
+}
+body{
+    background-color: floralwhite;
+}
+nav{
+    width: 100%;
+    background: #ffad14;
+    list-style: none;
+    height: 60px;
+    
+}
+ul.menu {
+    width: 100%;
+    max-width: 1258px;
+    background: #ffad14;
+    list-style: none;
+    height: 60px;
+    margin-bottom: 20px;
+    padding: 0;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    margin-top: 10px;
+    padding: 10px 20px;
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "Groovy Happening"
+}
+.top{
+    display: block;
+    background-color: gainsboro;
+    height: 36px;
+    width: 100%;
+}
+.top li a{
+    width: 25px;
+    display: inline-block;
+    background: gainsboro;
+    float: left;
+    margin: 0px 10px;
+}
+ul.redes{
+    list-style: none;
+    padding-top: 5px;
+}
+.top li a .ili{
+    width: 25px;
+}
+.top li a .ilf{
+    width: 25px;
+    border-radius: 50%;
+}
